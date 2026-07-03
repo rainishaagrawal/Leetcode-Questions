@@ -4,9 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1920-build-array-from-permutation](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
