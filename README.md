@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
