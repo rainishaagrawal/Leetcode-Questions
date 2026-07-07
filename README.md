@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [1920-build-array-from-permutation](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0520-detect-capital](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0520-detect-capital) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
