@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0443-string-compression) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Math
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0383-ransom-note](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0500-keyboard-row) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0494-target-sum) |
 ## Greedy
 |  |
