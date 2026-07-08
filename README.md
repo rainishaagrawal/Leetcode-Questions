@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 | [3894-traffic-signal-color](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0500-keyboard-row) |
