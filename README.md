@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0541-reverse-string-ii) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Math
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0541-reverse-string-ii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3894-traffic-signal-color) |
