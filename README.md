@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3174-clear-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3174-clear-digits) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3174-clear-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
