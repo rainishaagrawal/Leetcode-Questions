@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [1331-rank-transform-of-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -168,10 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3174-clear-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
