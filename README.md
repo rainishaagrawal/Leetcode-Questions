@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
+| [2390-removing-stars-from-a-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3174-clear-digits) |
 | [3894-traffic-signal-color](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2390-removing-stars-from-a-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3174-clear-digits) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3894-traffic-signal-color) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2390-removing-stars-from-a-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
