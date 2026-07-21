@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0500-keyboard-row) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0735-asteroid-collision) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0456-132-pattern](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0456-132-pattern) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Sorting
