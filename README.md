@@ -222,4 +222,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
