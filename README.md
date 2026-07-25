@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0239-sliding-window-maximum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0456-132-pattern](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0500-keyboard-row) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Stack
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -248,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
