@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
 | [2390-removing-stars-from-a-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3894-traffic-signal-color) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0394-decode-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Data Stream
 |  |
 | ------- |
