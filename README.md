@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0541-reverse-string-ii) |
+| [0649-dota2-senate](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0409-longest-palindrome) |
+| [0649-dota2-senate](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0649-dota2-senate) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
