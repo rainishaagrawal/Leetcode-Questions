@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3174-clear-digits) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Backtracking
 |  |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
