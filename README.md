@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
