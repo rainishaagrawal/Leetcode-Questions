@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0649-dota2-senate) |
 | [0796-rotate-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
+| [0859-buddy-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0859-buddy-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1544-make-the-string-great) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0500-keyboard-row) |
+| [0859-buddy-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0859-buddy-strings) |
 | [1331-rank-transform-of-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3731-find-missing-elements) |
