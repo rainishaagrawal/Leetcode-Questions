@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0412-fizz-buzz) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0392-is-subsequence) |
