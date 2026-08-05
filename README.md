@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0735-asteroid-collision) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0459-repeated-substring-pattern) |
