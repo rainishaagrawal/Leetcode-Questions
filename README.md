@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0043-multiply-strings) |
+| [0071-simplify-path](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0290-word-pattern](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0290-word-pattern) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0143-reorder-list) |
