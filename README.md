@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0649-dota2-senate](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
