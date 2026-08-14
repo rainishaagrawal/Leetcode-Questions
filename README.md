@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0148-sort-list) |
