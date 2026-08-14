@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1920-build-array-from-permutation) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [0859-buddy-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0859-buddy-strings) |
 | [1331-rank-transform-of-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3731-find-missing-elements) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Brainteaser
 |  |
