@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0739-daily-temperatures) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0500-keyboard-row) |
+| [0705-design-hashset](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [0859-buddy-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0859-buddy-strings) |
 | [1331-rank-transform-of-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0933-number-of-recent-calls) |
 ## Queue
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
@@ -421,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
