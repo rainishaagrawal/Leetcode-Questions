@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0796-rotate-string) |
+| [0824-goat-latin](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0859-buddy-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
