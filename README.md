@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0724-find-pivot-index) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0500-keyboard-row) |
+| [0594-longest-harmonious-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [0859-buddy-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0859-buddy-strings) |
 | [1331-rank-transform-of-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Brainteaser
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
