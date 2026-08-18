@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0724-find-pivot-index) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0658-find-k-closest-elements](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
@@ -412,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
