@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
