@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0274-h-index) |
 | [0410-split-array-largest-sum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0456-132-pattern) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0274-h-index) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
