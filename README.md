@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0495-teemo-attacking) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0415-add-strings) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
