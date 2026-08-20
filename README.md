@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2000-reverse-prefix-of-word](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3884-first-matching-character-from-both-ends) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1544-make-the-string-great) |
+| [2000-reverse-prefix-of-word](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2000-reverse-prefix-of-word](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3174-clear-digits) |
