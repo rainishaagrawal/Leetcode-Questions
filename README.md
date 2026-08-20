@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3884-first-matching-character-from-both-ends) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0859-buddy-strings) |
 | [1331-rank-transform-of-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2784-check-if-array-is-good](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2563-count-the-number-of-fair-pairs) |
