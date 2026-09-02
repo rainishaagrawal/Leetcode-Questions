@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0946-validate-stack-sequences](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1051-height-checker](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0705-design-hashset) |
 | [0819-most-common-word](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0859-buddy-strings) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0819-most-common-word) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
+| [0992-subarrays-with-k-different-integers](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
