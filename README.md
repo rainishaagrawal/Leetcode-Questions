@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -548,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1051-height-checker) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
