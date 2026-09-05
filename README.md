@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0231-power-of-two) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -553,5 +555,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
