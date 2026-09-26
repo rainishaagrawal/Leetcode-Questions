@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2784-check-if-array-is-good](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2784-check-if-array-is-good) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2563-count-the-number-of-fair-pairs) |
