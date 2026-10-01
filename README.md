@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0669-trim-a-binary-search-tree) |
 ## Depth-First Search
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Tree
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0669-trim-a-binary-search-tree) |
 ## Breadth-First Search
@@ -672,5 +675,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0669-trim-a-binary-search-tree) |
 <!---LeetCode Topics End-->
