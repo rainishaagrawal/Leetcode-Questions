@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0239-sliding-window-maximum) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0200-number-of-islands) |
 ## Design
 |  |
 | ------- |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 ## DP on Trees
@@ -677,4 +681,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0669-trim-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
