@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1137-n-th-tribonacci-number) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0542-01-matrix](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0994-rotting-oranges](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 ## DP on Trees
