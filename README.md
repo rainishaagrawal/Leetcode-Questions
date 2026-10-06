@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
 | ------- |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 ## DP on Trees
 |  |
 | ------- |
