@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0179-largest-number) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0449-serialize-and-deserialize-bst](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0449-serialize-and-deserialize-bst) |
@@ -697,4 +700,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0200-number-of-islands) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
