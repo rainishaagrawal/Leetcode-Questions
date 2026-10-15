@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 ## Design
 |  |
 | ------- |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2974-minimum-number-game](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/2974-minimum-number-game) |
 ## Monotonic Queue
 |  |
@@ -626,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0669-trim-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -659,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0994-rotting-oranges](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 ## DP on Trees
 |  |
 | ------- |
@@ -700,8 +706,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0200-number-of-islands) |
+| [1631-path-with-minimum-effort](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 ## Bidirectional Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/0127-word-ladder) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/rainishaagrawal/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
